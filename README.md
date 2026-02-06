@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hello, I am Renzo Lazo</h1>
 <h2 align="center">👨‍💻 Systems Engineer | Backend & Data Enthusiast</h3>
 <h4 align="center">I am a developer passionate about the data</h3>
