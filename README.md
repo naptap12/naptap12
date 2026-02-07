@@ -6,7 +6,7 @@
 - I am a **Systems Engineer** graduate from the **Technological University of Peru**, passionate about scalable software development and data analysis. My main focus is on building robust web solutions using **Java (Spring Boot)** and **Angular**, while exploring the world of data with **SQL** and **Power BI**. I am currently looking for opportunities to apply my skills in backend development and software architecture.
 
 - 📫 How to reach me: **renzo.lazo.siancas@hotmail.com** or **renzhinos199@gmail.com**
-- [Notion General Notes (spanish)](https://www.notion.so/Universidad-7f6e1b4abb2c4e22b4bbe836b5d70d87?source=copy_link)
+- 📝 Here you can see my study notes 👉🏻 [Notion General Notes (spanish)](https://www.notion.so/Universidad-7f6e1b4abb2c4e22b4bbe836b5d70d87?source=copy_link)
 
 ## Contact me:
 
